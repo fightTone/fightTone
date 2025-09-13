@@ -25,7 +25,7 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 </div>
 
 <!-- Animated typing code effect with proper indentation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=F7931E&multiline=true&width=800&height=280&lines=const+developer+%3D+%7B;%C2%A0%C2%A0name%3A+%22Geronyl+Paragoso%22%2C;%C2%A0%C2%A0experience%3A+%225%2B+years%22%2C;%C2%A0%C2%A0skills%3A+%5B%22Python%22%2C+%22JavaScript%22%2C+%22AI%2FML%22%5D%2C;%C2%A0%C2%A0passion%3A+%22Building+innovative+solutions%22%2C;%C2%A0%C2%A0currentFocus%3A+%22Full-Stack+%26+Cloud+Development%22%2C;%C2%A0%C2%A0status%3A+%22Available+for+opportunities%22;%7D%3B;console.log(%22Welcome+to+my+GitHub+profile!+%F0%9F%9A%80%22)%3B" alt="Typing Code SVG" />
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=F7931E&multiline=true&width=800&height=280&lines=const+developer+%3D+%7B;%C2%A0%C2%A0name%3A+%22Geronyl+Paragoso%22%2C;%C2%A0%C2%A0experience%3A+%225%2B+years%22%2C;%C2%A0%C2%A0skills%3A+%5B%22Python%22%2C+%22JavaScript%22%2C+%22AI%2FML%22%5D%2C;%C2%A0%C2%A0passion%3A+%22Building+innovative+solutions%22%2C;%C2%A0%C2%A0currentFocus%3A+%22Full-Stack+%26+Cloud+Development%22%2C;%C2%A0%C2%A0status%3A+%22Available+for+opportunities%22;%7D%3B;console.log(%22Welcome+to+my+GitHub+profile!+%F0%9F%9A%80%22)%3B" alt="Typing Code SVG" /></a>
 
 <div align="center">
 
