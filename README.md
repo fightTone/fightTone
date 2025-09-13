@@ -16,6 +16,9 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 
 <div align="center">
 
+<!-- Animated typing effect -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+Science+%26+AI%2FML+Specialist;Full-Stack+Developer;Cloud+Architecture+Expert;5%2B+Years+Experience" alt="Typing SVG" /></a>
+
 ### Core Proficiency
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
