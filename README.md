@@ -64,6 +64,17 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 <a href="#"><img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /></a>
 
+## 📈 Skills Mastery Dashboard
+
+<!-- Animated skill level indicators -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Python+Programming+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+95%25;JavaScript+%26+Node.js+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+85%25;Data+Science+%26+ML+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Cloud+Architecture+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25;Database+Management+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+92%25" alt="Skills Animation" /></a>
+
+<!-- Animated expertise radar -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Full-Stack+Development%3A+Expert+Level;%F0%9F%A4%96+AI%2FML+Engineering%3A+Advanced+Level;%E2%98%81%EF%B8%8F+Cloud+Solutions%3A+Professional+Level;%F0%9F%93%8A+Data+Engineering%3A+Expert+Level;%F0%9F%8C%90+API+Development%3A+Advanced+Level" alt="Expertise Levels" /></a>
+
+<!-- Animated project stats -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFD93D&center=true&vCenter=true&width=800&lines=%F0%9F%93%88+Projects+Completed%3A+50%2B;%F0%9F%8C%8D+International+Clients%3A+15%2B;%F0%9F%8F%86+Years+Experience%3A+5%2B;%F0%9F%92%BB+Lines+of+Code%3A+100%2C000%2B;%E2%9A%A1+Performance+Optimizations%3A+Countless" alt="Project Stats" /></a>
+
 </div>
 
 
@@ -76,10 +87,26 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 🌐 **Impact:** Delivering enterprise-grade solutions for international clients across Asia Pacific and North America
 
 ## 📫 Let's Connect!
-- 📧 Email: qgee123@gmail.com
-- 💼 LinkedIn: [geronyl-paragoso](https://www.linkedin.com/in/geronyl-paragoso-618232168)
-- 📱 Phone: +63 955 913 7671
-- 📍 Location: Linamon, Lanao del Norte, Philippines
+
+<!-- Animated contact header -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate%3F;Let's+build+something+amazing!;Available+for+opportunities" alt="Contact Animation" /></a>
+
+<div align="center">
+
+<!-- Animated contact info with emojis -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=700&lines=%F0%9F%93%A7+qgee123%40gmail.com;%F0%9F%92%BC+linkedin.com%2Fin%2Fgeronyl-paragoso-618232168;%F0%9F%93%B1+%2B63+955+913+7671;%F0%9F%93%8D+Linamon%2C+Lanao+del+Norte%2C+Philippines" alt="Contact Info Animation" /></a>
+
+<!-- Animated social badges -->
+<a href="mailto:qgee123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/geronyl-paragoso-618232168"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
+<a href="tel:+639559137671"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" /></a>
+
+<!-- Animated collaboration call-to-action -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Open+to+collaboration+on+innovative+projects;%F0%9F%A4%96+Specializing+in+Data+Science+%26+AI%2FML;%F0%9F%9A%80+Full-Stack+Development+expertise;%F0%9F%92%A1+Let's+turn+ideas+into+reality!" alt="Collaboration CTA" /></a>
+
+</div>
 
 ---
-*Open to collaboration on innovative projects in Data Science, AI/ML, and Full-Stack Development!*
+
+<!-- Animated footer message -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Have+a+great+day%2C+and+happy+coding!+%F0%9F%92%BB;Connect+with+me+for+amazing+projects!+%E2%9C%A8" alt="Footer Animation" /></a>
