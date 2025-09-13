@@ -108,5 +108,13 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 
 ---
 
-<!-- Animated footer message -->
+<!-- Animated footer message with space theme -->
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Have+a+great+day%2C+and+happy+coding!+%F0%9F%92%BB;Connect+with+me+for+amazing+projects!+%E2%9C%A8" alt="Footer Animation" /></a>
+
+<!-- Spinning earth and rocket animation -->
+<div align="center">
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=%F0%9F%8C%8D+Connecting+developers+worldwide+%F0%9F%8C%8D;%F0%9F%9A%80+Launching+amazing+projects+%F0%9F%9A%80;%E2%AD%90+Reaching+for+the+stars+%E2%AD%90" alt="Space Animation" /></a>
+
+<!-- Animated space scene -->
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,17,25&height=120&section=footer&text=🌍%20🚀%20✨&fontSize=60&fontColor=FFD700&animation=twinkling&stroke=00FF00&strokeWidth=2" alt="Space Scene" /></a>
+</div>
