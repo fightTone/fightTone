@@ -54,7 +54,7 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fightTone&theme=tokyo-night&hide_border=true)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fightTone&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=4&title=MultiLanguage,Followers,Stars,Commit,PR,Issues,Repos)
+<img src="https://github-profile-trophy.vercel.app/?username=fightTone&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&title=MultiLanguage,Followers,Stars,Commit,PR,Issues,Repos" />
 
 </div>
 
