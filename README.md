@@ -1,7 +1,7 @@
 # Hi there! I'm Geronyl S. Paragoso 👋
 ### Senior Software Engineer | Data Science Specialist | Full-Stack Developer
 
-![Screenshot](https://github.com/fightTone/fightTone/blob/main/images/full-stack-development.gif)
+<a href="#"><img src="https://github.com/fightTone/fightTone/blob/main/images/full-stack-development.gif"/></a>
 
 ## About Me
 Experienced Software Engineer with **5+ years** of industry expertise in full-stack development, specializing in **Data Science**, **Progressive Web Applications**, and **Data Engineering**. I have a proven track record of collaborating with international clients across Asia Pacific and North America to deliver impactful software solutions.
@@ -20,7 +20,7 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+Science+%26+AI%2FML+Specialist;Full-Stack+Developer;Cloud+Architecture+Expert;5%2B+Years+Experience" alt="Typing SVG" /></a>
 
 <!-- Cool divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn"/>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn"/></a>
 
 </div>
 
@@ -30,10 +30,10 @@ Experienced Software Engineer with **5+ years** of industry expertise in full-st
 <div align="center">
 
 <!-- Visitor counter with cool styling -->
-<img src="https://komarev.com/ghpvc/?username=fightTone&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<a href="#"><img src="https://komarev.com/ghpvc/?username=fightTone&style=for-the-badge&color=blueviolet" alt="Profile Views" /></a>
 
 <!-- Another animated divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/></a>
 
 ### Core Proficiency
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
