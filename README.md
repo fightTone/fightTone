@@ -4,7 +4,7 @@
 <a href="#"><img src="https://github.com/fightTone/fightTone/blob/main/images/full-stack-development.gif"/></a>
 
 ## About Me
-Experienced Software Engineer with **7 years** of industry expertise in full-stack development, specializing in **Data Science**, **Progressive Web Applications**, and **Data Engineering**. I have a proven track record of collaborating with international clients across Asia Pacific and North America to deliver impactful software solutions.
+Experienced Software Engineer with **7+ years** of industry expertise in full-stack development, specializing in **Data Science**, **Progressive Web Applications**, and **Data Engineering**. I have a proven track record of collaborating with international clients across Asia Pacific and North America to deliver impactful software solutions.
 
 ## 🚀 What I Do
 - 🔭 Building scalable data pipelines and real-time analytics systems
@@ -17,7 +17,7 @@ Experienced Software Engineer with **7 years** of industry expertise in full-sta
 <div align="center">
 
 <!-- Animated typing effect -->
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+Science+%26+AI%2FML+Specialist;Full-Stack+Developer;Cloud+Architecture+Expert;5%2B+Years+Experience" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+Science+%26+AI%2FML+Specialist;Full-Stack+Developer;Cloud+Architecture+Expert;7%2B+Years+Experience" alt="Typing SVG" /></a>
 
 <!-- Cool divider -->
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn"/></a>
