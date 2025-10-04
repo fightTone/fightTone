@@ -4,7 +4,7 @@
 <a href="#"><img src="https://github.com/fightTone/fightTone/blob/main/images/full-stack-development.gif"/></a>
 
 ## About Me
-Experienced Software Engineer with **5+ years** of industry expertise in full-stack development, specializing in **Data Science**, **Progressive Web Applications**, and **Data Engineering**. I have a proven track record of collaborating with international clients across Asia Pacific and North America to deliver impactful software solutions.
+Experienced Software Engineer with **7 years** of industry expertise in full-stack development, specializing in **Data Science**, **Progressive Web Applications**, and **Data Engineering**. I have a proven track record of collaborating with international clients across Asia Pacific and North America to deliver impactful software solutions.
 
 ## 🚀 What I Do
 - 🔭 Building scalable data pipelines and real-time analytics systems
