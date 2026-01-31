@@ -1,5 +1,5 @@
 # Hi there! I'm Geronyl S. Paragoso 👋
-### Senior Software Engineer | Data Science Specialist | Full-Stack Developer
+### Senior Software Engineer | Data Science Specialist | Full-Stack Developer | AI Enthusiast
 
 <a href="#"><img src="https://github.com/fightTone/fightTone/blob/main/images/full-stack-development.gif"/></a>
 
